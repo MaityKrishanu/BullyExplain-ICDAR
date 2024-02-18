@@ -9,7 +9,7 @@ This is the official repository accompanying the ICDAR 2023 full paper [Explain 
 # Authors
 Krishanu Maity*, Prince Jha*, Raghav Jain, Sriparna Saha, Pushpak Bhattacharyya
 
-Note : * denotes equal contribution
+Note : * denotes equal contribution.
 
 
 # Citation
